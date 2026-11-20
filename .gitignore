@@ -1,0 +1,8 @@
+.DS_Store
+bin/
+target/
+tmp/
+work/
+Servers/
+build/
+.metadata/
