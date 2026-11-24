@@ -13,7 +13,7 @@
 <p>性別：${sex}</p>
 <p>お問い合わせ種別：
 	<% if (cates != null) { for (String cate : cates) { %>
-    	<%= cate +" , "%>
+    	<%= cate %>
 	<% } } %>
 </p>
 <p>住まいエリア：${pref}</p>
